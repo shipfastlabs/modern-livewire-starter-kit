@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/livewire-starter-kit",
+    "name": "shipfastlabs/modern-livewire-starter-kit",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "Laravel Livewire starter kit with opinionated modern tooling setup.",
     "keywords": [
         "laravel",
         "framework"
