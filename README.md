@@ -10,7 +10,7 @@ This Livewire starter kit utilizes Livewire 3, Laravel Volt, TypeScript, Tailwin
 
 ## Enhanced Features
 
-This kit extends the official Laravel Vue starter with additional development tools and quality assurance:
+This kit extends the official Laravel Livewire starter with additional development tools and quality assurance:
 
 - **PHPStan (Maximum Level)**: Static analysis at the highest level for robust type checking
 - **Laravel Pint**: Automated styling with opinionated rules approved by Nuno Maduro
@@ -20,7 +20,7 @@ This kit extends the official Laravel Vue starter with additional development to
   - Architecture tests for maintaining code structure
 - **IDE Helper**: Enhanced IDE support for Laravel facades and models
 
-> This starter kit is regularly synchronized with the official Laravel Vue starter kit to ensure you get the latest features and security updates.
+> This starter kit is regularly synchronized with the official Laravel Livewire starter kit to ensure you get the latest features and security updates.
 
 ## Installation
 
